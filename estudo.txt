@@ -4,3 +4,5 @@ Placa mãe - Gerenciar todos os dados que são transmitidos pelos diversos dispo
 
 Processador - Componente de hardware responsável por todo processamento logico e aritmético
 
+input e output
+
